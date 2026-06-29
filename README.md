@@ -30,7 +30,7 @@ A futtatáshoz az alábbiak szükségesek:
 
 ---
 
-## 6. Bejelentkezés
+## Bejelentkezés
 
 Az alkalmazás használatához **bejelentkezés szükséges**.
 
@@ -52,7 +52,7 @@ Sikertelen bejelentkezés esetén a rendszer hibaüzenetet jelenít meg.
 
 ---
 
-## 7. Kijelentkezés
+## Kijelentkezés
 
 Az alkalmazás felületén elérhető **„Kijelentkezés”** gomb segítségével  
 a felhasználó bármikor kiléphet az alkalmazásból.
@@ -65,7 +65,7 @@ Kijelentkezéskor:
 A felületen megjelenik az aktuálisan bejelentkezett felhasználó neve  
 ---
 
-## 8. Jogosultságkezelés
+## Jogosultságkezelés
 
 Az alkalmazás csak bejelentkezett felhasználók számára érhető el.  
 Amennyiben nincs aktív bejelentkezés, a rendszer automatikusan  
